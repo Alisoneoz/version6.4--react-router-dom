@@ -1,6 +1,7 @@
 # Navigation with the React Router Dom's Version 6.4+ Syntax
 
-A basic Navbar created with React Router Dom library, version 6.8
+A basic Navbar created with React Router Dom library, version 6.8.2.
+
 ![router6 4](https://user-images.githubusercontent.com/96319139/222937165-69b0947e-e61a-4428-8d1e-c10938a76448.png)
 
 
