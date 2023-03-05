@@ -26,7 +26,7 @@ function App() {
   );
 
   return (
-    <div className="App ">
+    <div className="App min-h-screen box-border m-0 p-0 bg-gray-600 text-gray-200">
       <RouterProvider router={router}/> {/* STEP 7: Add a <RouterProvider> tag and pass the router as prop, to the App component's JSX */}
 
     </div>
